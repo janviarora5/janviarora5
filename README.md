@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @janviarora5
+- 👋 Hi, I’m Janvi
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full STack Development
 - 💞️ I’m looking to collaborate to the open source projects.
